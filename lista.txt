@@ -6,5 +6,6 @@ Anghelo Montalvo 06/05/2025
 fin
 # DIA 2
 Nombre Apellido / Fecha
+Kevin Daniel Quiroga Araoz
 
 
